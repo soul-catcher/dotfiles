@@ -1,0 +1,11 @@
+[".config/fish/functions/"]
+	type = "archive"
+	url = "https://api.github.com/repos/oh-my-fish/theme-agnoster/tarball"
+	refreshPeriod = "672h" # four weeks
+	stripComponents = 2
+[".icons/Bibata-Modern-Ice"]
+	type = "archive"
+	url = "https://github.com/ful1e5/Bibata_Cursor/releases/latest/download/Bibata-Modern-Ice.tar.gz"
+	refreshPerriod = "672h" # four weeks
+	exact = true
+	stripComponents = 1
